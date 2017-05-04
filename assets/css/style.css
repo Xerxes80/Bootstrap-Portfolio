@@ -1,0 +1,12 @@
+body{
+   background:url("../background/grunge_wall/grunge_wall.png");
+    font-size: 14px;
+}
+#name{
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+img{
+    width: 200px;
+    height: auto;
+}
